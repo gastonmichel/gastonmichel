@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on serverless projects since I believe it is the future of web development.
 - 💬 Ask me about ETH solo staking, Moodle, Kubernetes, Docker, Python, Gitlab, AWS Cloud architecture, and serverless tools like Vercel, Planetscale, Ably, Upstash, or Supabase.
 - 📫 How to reach me: [michel.z.gaston@gmail.com](mailto:michel.z.gaston@gmail.com) or via [linkedin](https://www.linkedin.com/in/gaston-michel/) 
-- 😄 Pronouns: he, him
+
